@@ -1,0 +1,29 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "Clean Blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orcunakkaya/Clean-Blog.git"
+  },
+  "keywords": [
+    "Blog"
+  ],
+  "author": "Orçun Berkay Akkaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orcunakkaya/Clean-Blog/issues"
+  },
+  "homepage": "https://github.com/orcunakkaya/Clean-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
